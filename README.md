@@ -16,6 +16,12 @@ To get started with this project, just 'clone' this repository
 * Jupyter Notebook
 * Python 
 
+```
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+pip install urllib
+```
 
 ### Screenshots
 
