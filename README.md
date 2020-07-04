@@ -34,6 +34,6 @@ To get started with this project, just 'clone' this repository
 ![Image 5](https://www.gettyimages.pt/gi-resources/images/Homepage/Hero/PT/PT_hero_42_153645159.jpg)
 **Image 5**
 
-![Final_Image](Final_Image.jpg)
+![Final_Image](https://github.com/gulvaibhav20/Instagram-Style-Photo-Collage/blob/master/Final_Image.jpg)
 
 **Final Image (Collage)**
